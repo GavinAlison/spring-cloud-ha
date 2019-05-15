@@ -1,0 +1,9 @@
+servet:
+  port: 6001
+spring:
+  application:
+    name: demo1-service
+eureka:
+  clinet:
+    serviceUrl:
+      defaultZone: http://localhost:6000/eureka/
