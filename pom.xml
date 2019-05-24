@@ -26,10 +26,9 @@
         <logstash.version>5.3</logstash.version>
     </properties>
 
-
     <modules>
-        <module>propertiesDemo</module>
+        <module>properties-demo</module>
         <module>registry</module>
-        <module>demoservice1</module>
+        <module>demo1-service</module>
     </modules>
 </project>
